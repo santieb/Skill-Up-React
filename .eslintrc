@@ -22,7 +22,7 @@
         "react/prop-types": "off",
         "space-before-function-paren": "off",
         "indent": ["off"],
-        "linebreak-style": ["error", "windows"],
+        "linebreak-style": "off",
         "quotes": "off",
         "semi": ["error", "always"],
         "react/react-in-jsx-scope": "off",
